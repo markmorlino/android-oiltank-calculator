@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Oil Tank</string>
+    <string name="depth">fuel depth</string>
+    <string name="height">tank height</string>
+    <string name="width">tank width</string>
+    <string name="length">tank length</string>
+    <string name="result">result</string>
+    <string name="content">wazzup</string>
+</resources>
